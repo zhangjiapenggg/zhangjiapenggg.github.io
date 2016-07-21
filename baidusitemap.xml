@@ -17,34 +17,4 @@
     </data>
     </url>
 
-    
-  <url>
-    <loc>http://yoursite.com/2016/07/18/postName/</loc>
-    <lastmod>2016-07-18T03:25:29.000Z</lastmod>
-    <data>
-        <display>
-        <title>postName</title>
-        <pubTime>2016-07-18T03:25:29.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2016/05/24/hello-world/</loc>
-    <lastmod>2016-07-18T02:37:13.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2016-05-24T07:00:38.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
 </urlset>
